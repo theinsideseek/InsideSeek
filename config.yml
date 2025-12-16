@@ -1,0 +1,45 @@
+baseURL: ''
+languageCode: en-us
+title: Inside Seek
+theme: PaperMod
+
+
+params:
+  homeInfoParams:
+    title: "Hello, Inside Seekers!"
+    content: "Explore the world of Software Development, Technology Trends, and Coding Insights. Join us on this journey to stay updated and inspired!"
+  socialIcons:
+    - name: GitHub
+      url: "https://github.com/insideseek/"
+    - name: Twitter
+      url: "https://twitter.com/insideseek/"
+    - name: pinterest
+      url: "https://pinterest.com/insideseek/"
+
+
+ShowshareButtons: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 1
+    - identifier: newsletter
+      name: Newsletter
+      url: /newsletter/
+      weight: 2
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 3
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 4
+    - identifier: privacy
+      name: Privacy Policy
+      url: /privacy-policy/
+      weight: 5
+
+      
