@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>General on Inside Seek</title>
-    <link>//localhost:1313/categories/general/</link>
+    <link>http://localhost:1313/categories/general/</link>
     <description>Recent content in General on Inside Seek</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Dec 2025 17:00:26 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/general/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/general/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Website Creation</title>
-      <link>//localhost:1313/posts/website/</link>
+      <link>http://localhost:1313/posts/website/</link>
       <pubDate>Thu, 11 Dec 2025 17:00:26 +0600</pubDate>
-      <guid>//localhost:1313/posts/website/</guid>
+      <guid>http://localhost:1313/posts/website/</guid>
       <description>&lt;h3 id=&#34;create-your-own-website-easily&#34;&gt;Create Your Own Website Easily&lt;/h3&gt;
 &lt;p&gt;In today&amp;rsquo;s digital age, having a personal or business website is essential. Whether you&amp;rsquo;re a blogger, entrepreneur, or hobbyist, creating your own website has never been easier. With user-friendly platforms and tools available, anyone can build a professional-looking site without extensive coding knowledge. Here are some tips to get started:&lt;/p&gt;
 &lt;ol&gt;
@@ -23,9 +23,9 @@
     </item>
     <item>
       <title>Introduction</title>
-      <link>//localhost:1313/posts/introduction/</link>
+      <link>http://localhost:1313/posts/introduction/</link>
       <pubDate>Thu, 11 Dec 2025 16:22:35 +0600</pubDate>
-      <guid>//localhost:1313/posts/introduction/</guid>
+      <guid>http://localhost:1313/posts/introduction/</guid>
       <description>&lt;h3 id=&#34;welcome-to-inside-seek&#34;&gt;Welcome to Inside Seek&lt;/h3&gt;
 &lt;p&gt;This is the introduction post for the Inside Seek blog. Here, we will explore various topics related to web development,building blogs, and insights into the software and tech industry including affiliate marketing and adsense. Stay tuned for more informative articles and tips to help you navigate making money with blog journey!&lt;/p&gt;</description>
     </item>
