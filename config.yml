@@ -1,5 +1,4 @@
-baseURL: 'https://insideseek.netlify.app
-'
+baseURL: "https://insideseek.netlify.app"
 languageCode: en-us
 title: Inside Seek
 theme: PaperMod
