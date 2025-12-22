@@ -17,7 +17,7 @@ params:
       url: "https://pinterest.com/insideseek/"
 
 
-ShowshareButtons: true
+ShowShareButtons: true
 
 menu:
   main:
