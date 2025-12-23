@@ -12,8 +12,6 @@ params:
   author: Stockson
   ShowReadingTime: true
   ShowShareButtons: true
-  
-  hideFooter: false
 
   socialIcons:
     - name: GitHub
