@@ -8,15 +8,12 @@ params:
     title: "Hello, Inside Seekers!"
     content: "Explore the world of Software Development, Technology Trends, and Coding Insights. Join us on this journey to stay updated and inspired!"
   
-  author: Stockson
   ShowReadingTime: true
   ShowShareButtons: true
   
   socialIcons:
     - name: GitHub
       url: "https://github.com/insideseek/"
-    - name: Twitter
-      url: "https://twitter.com/insideseek/"
     - name: Pinterest
       url: "https://pinterest.com/insideseek/"
 

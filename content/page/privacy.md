@@ -10,7 +10,7 @@ ShowToc = true
 
 ## Introduction
 
-Your privacy is important to us. This Privacy Policy explains how Inside Seek ("we", "our", "us") collects, uses, and protects your information when you visit our website.
+Your privacy is important to us. This Privacy Policy explains how Inside Seek collects, uses, and protects your information when you visit our website.
 
 By using this website, you agree to the collection and use of information in accordance with this policy.
 

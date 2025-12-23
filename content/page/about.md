@@ -7,7 +7,7 @@ ShowToc = false
 +++
 
 
-## Hi, I'm William Stockson! 👋
+## Hi, I'm William Stockson!
 
 Welcome to **Inside Seek**, your go-to resource for software development, technology trends, and coding insights.
 
@@ -26,10 +26,10 @@ On Inside Seek, I cover:
 ### My Approach
 
 I believe in:
-- ✅ **Practical Knowledge** - Real-world examples and hands-on tutorials
-- ✅ **Clear Explanations** - Making complex topics easy to understand
-- ✅ **Continuous Learning** - Sharing what I learn along the way
-- ✅ **Community** - Building connections with fellow tech enthusiasts
+- **Practical Knowledge** - Real-world examples and hands-on tutorials
+- **Clear Explanations** - Making complex topics easy to understand
+- **Continuous Learning** - Sharing what I learn along the way
+- **Community** - Building connections with fellow tech enthusiasts
 
 ### Get in Touch
 
