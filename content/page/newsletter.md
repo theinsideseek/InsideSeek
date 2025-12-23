@@ -26,4 +26,4 @@ We're setting up our newsletter system. Check back soon!
 
 Want to be notified when the newsletter is ready?
 
-**Email us at:** your@email.com with subject "Newsletter"
+**Email us at:** theinsideseek@gmail.com with subject "Newsletter"

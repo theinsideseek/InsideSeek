@@ -9,7 +9,6 @@ params:
     content: "Explore the world of Software Development, Technology Trends, and Coding Insights. Join us on this journey to stay updated and inspired!"
   
   ShowReadingTime: true
-  ShowShareButtons: true
   
   socialIcons:
     - name: GitHub
