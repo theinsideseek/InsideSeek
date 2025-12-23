@@ -3,7 +3,6 @@ languageCode: en-us
 title: Inside Seek
 theme: PaperMod
 
-
 params:
   homeInfoParams:
     title: "Hello, Inside Seekers!"
@@ -12,34 +11,34 @@ params:
   author: Stockson
   ShowReadingTime: true
   ShowShareButtons: true
-
+  
   socialIcons:
     - name: GitHub
       url: "https://github.com/insideseek/"
     - name: Twitter
       url: "https://twitter.com/insideseek/"
-    - name: pinterest
+    - name: Pinterest
       url: "https://pinterest.com/insideseek/"
-  
-
 
 menu:
   main:
-    - identifier: newsletter
-      name: Newsletter
-      url: /newsletter/
-      weight: 2
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 1
     - identifier: about
       name: About
       url: /about/
+      weight: 2
+    - identifier: newsletter
+      name: Newsletter
+      url: /newsletter/
       weight: 3
     - identifier: contact
       name: Contact
       url: /contact/
       weight: 4
     - identifier: privacy
-      name: Privacy Policy
-      url: /privacy-policy/
+      name: Privacy
+      url: /privacy/
       weight: 5
-
-      
