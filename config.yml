@@ -15,7 +15,13 @@ params:
       url: "https://twitter.com/insideseek/"
     - name: pinterest
       url: "https://pinterest.com/insideseek/"
+  
 
+  hideFooter = false  # Keep footer but customize it
+
+  footerParams:
+    hideCopyright = false
+    hideCredit = true  # This hides "Powered by Hugo & PaperMod"
 
 ShowShareButtons: true
 
