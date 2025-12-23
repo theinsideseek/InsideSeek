@@ -10,17 +10,6 @@ ShowToc = false
 
 ## 📬 Stay Updated with Inside Seek
 
-Subscribe to our newsletter and get:
-- Latest blog posts delivered to your inbox
-- Exclusive coding tips and tutorials
-- Technology news and trends
-- Early access to new content
-- No spam, just quality content
-
----
-
-## 📬 Stay Updated with Inside Seek
-
 Join our newsletter to receive:
 - Latest blog posts
 - Coding tips and tutorials
