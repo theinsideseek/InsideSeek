@@ -14,7 +14,6 @@ params:
   ShowShareButtons: true
   
   hideFooter: false
-  hideCredits: true 
 
   socialIcons:
     - name: GitHub
