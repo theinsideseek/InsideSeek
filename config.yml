@@ -21,10 +21,6 @@ ShowShareButtons: true
 
 menu:
   main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 1
     - identifier: newsletter
       name: Newsletter
       url: /newsletter/
