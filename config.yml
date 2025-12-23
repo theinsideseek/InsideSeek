@@ -8,6 +8,13 @@ params:
   homeInfoParams:
     title: "Hello, Inside Seekers!"
     content: "Explore the world of Software Development, Technology Trends, and Coding Insights. Join us on this journey to stay updated and inspired!"
+    author: Stockson
+    ShowReadingTime: true
+    ShowShareButtons: true
+    hideFooter: false
+    footer:
+      hideCredit: true
+
   socialIcons:
     - name: GitHub
       url: "https://github.com/insideseek/"
@@ -17,13 +24,6 @@ params:
       url: "https://pinterest.com/insideseek/"
   
 
-  hideFooter = false  # Keep footer but customize it
-
-  footerParams:
-    hideCopyright = false
-    hideCredit = true  # This hides "Powered by Hugo & PaperMod"
-
-ShowShareButtons: true
 
 menu:
   main:
