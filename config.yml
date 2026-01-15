@@ -1,36 +1,195 @@
-baseURL: "https://insideseek.netlify.app"
+baseURL: "https://insideseek.netlify.app/"
 languageCode: en-us
 title: Inside Seek
 theme: PaperMod
 
+# Enable features
+enableRobotsTXT: true
+enableEmoji: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+# Pagination
+pagerSize: 10
+
+# Permalinks (SEO-friendly URLs)
+permalinks:
+  posts: /:year/:month/:slug/
+
+# Sitemap configuration
+sitemap:
+  changefreq: weekly
+  filename: sitemap.xml
+  priority: 0.5
+
+# Taxonomies
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+# Output formats (enables JSON for search)
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# Minify output
+minify:
+  disableXML: true
+  minifyOutput: true
+
 params:
+  env: production
+  title: Inside Seek
+  description: "Explore Technology Trends, Software and Coding, Robotics, AI, Quantum Computing, BRAIN-COMPUTER INTERFACE, NEUROMORPHIC COMPUTING, etc."
+  keywords:
+    - software
+    - coding
+    - technology
+    - side hustle
+    - technology treads 2026
+    - robotics
+    - artificial intelligence
+    - quantum computing
+    - brain computer interface
+    - neuromorphic computing
+    - quantum computer
+    - blogs with free hosting
+    - static website
+    - building in public
+    - linux setup
+    - indie hacker
+    - indie hacking
+    - solo developer
+
+  # Schema.org
+  schema:
+    publisherType: Person
+    siteType: Blog
+    logo: /images/insideseeklogo.png
+
+  defaultTheme: auto
+  disableThemeToggle: true
+
+  author: WILLIAM J.STOCKSON
+  favicon: /favicon.ico
+
+  mainSections:
+    - posts
+
+  # Images for social sharing
+  images:
+    - /images/site-cover.png
+
   homeInfoParams:
     title: "Hello, Inside Seekers!"
-    content: "Explore the world of Software Development, Technology Trends, and Coding Insights. Join us on this journey to stay updated and inspired!"
-  
+    content: "Explore the world of Technology, Development, AI, Robotics, Software and Coding. I will try to give you Technology Trends, Software and Coding, Robotics, AI, Quantum Computing, BRAIN-COMPUTER INTERFACE, NEUROMORPHIC COMPUTING, Get in touch to stay updated and inspired!"
+
+  # SEO Settings
   ShowReadingTime: true
-  
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowArchives: true
+  ShowCategories: true
+  ShowTags: true
+  ShowSeries: true
+  ShowLastUpdated: true
+  ShowAuthor: true
+  ShowDate: true
+  ShowFeaturedImage: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+
+  # Social
   socialIcons:
     - name: GitHub
       url: "https://github.com/insideseek/"
     - name: Pinterest
       url: "https://pinterest.com/insideseek/"
+    - name: RSS
+      url: "/index.xml"
 
+  # Analytics (add when ready)
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: "YOUR_VERIFICATION_TAG"
+
+# Related content configuration
+related:
+  includeNewer: true
+  threshold: 80
+  toLower: false
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 80
+    - name: date
+      weight: 10
+
+# Menu
 menu:
   main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 1
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 2
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 3
     - identifier: about
       name: About
       url: /about/
-      weight: 1
-    - identifier: newsletter
-      name: Newsletter
-      url: /newsletter/
-      weight: 2
+      weight: 4
     - identifier: contact
       name: Contact
       url: /contact/
-      weight: 3
+      weight: 5
     - identifier: privacy
-      name: Privacy
+      name: Privacy policy
       url: /privacy/
-      weight: 4
+      weight: 6
+
+# Privacy (GDPR compliance)
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    anonymizeIP: true
+    disable: false
+    respectDoNotTrack: true
+    useSessionStorage: true
+
+# Markup
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    lineNos: false
+    style: monokai
+  tableOfContents:
+    endLevel: 3
+    ordered: false
+    startLevel: 2

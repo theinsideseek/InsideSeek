@@ -4,30 +4,80 @@
     <title>Inside Seek</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Inside Seek</description>
+    <image>
+      <title>Inside Seek</title>
+      <url>http://localhost:1313/images/site-cover.png</url>
+      <link>http://localhost:1313/images/site-cover.png</link>
+    </image>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Dec 2025 17:00:26 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 10:00:00 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Website Creation</title>
-      <link>http://localhost:1313/posts/website/</link>
-      <pubDate>Thu, 11 Dec 2025 17:00:26 +0600</pubDate>
-      <guid>http://localhost:1313/posts/website/</guid>
-      <description>&lt;h3 id=&#34;create-your-own-website-easily&#34;&gt;Create Your Own Website Easily&lt;/h3&gt;
-&lt;p&gt;In today&amp;rsquo;s digital age, having a personal or business website is essential. Whether you&amp;rsquo;re a blogger, entrepreneur, or hobbyist, creating your own website has never been easier. With user-friendly platforms and tools available, anyone can build a professional-looking site without extensive coding knowledge. Here are some tips to get started:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Choose a Domain Name: Select a unique and memorable domain name that reflects your brand or personal identity.&lt;/li&gt;
-&lt;li&gt;Select a Hosting Provider: Find a reliable hosting service which is free like netlify, Github page or Clouldflare page.&lt;/li&gt;
-&lt;li&gt;Use a Website Builder: Platforms like Hugo, Jkyll, offer themes and templates to simplify the design process. You can write some html and css to make your website more unique and personalized.&lt;/li&gt;
-&lt;/ol&gt;</description>
+      <title>Build a custom Website for Only $10.88 a Year: Free Static Site Hosting with Custom Domain (2026 Guide)</title>
+      <link>http://localhost:1313/2026/01/website-cost-10-dollars-year-free-hosting/</link>
+      <pubDate>Mon, 12 Jan 2026 10:00:00 +0600</pubDate>
+      <guid>http://localhost:1313/2026/01/website-cost-10-dollars-year-free-hosting/</guid>
+      <description>Learn how to build a professional website for just $10.88/year using free static site hosting (Netlify, GitHub Pages, Cloudflare), Hugo SSG, and cheap domain registration. Complete tutorial with monetization options for blogs and portfolios.</description>
     </item>
     <item>
-      <title>Introduction</title>
-      <link>http://localhost:1313/posts/introduction/</link>
-      <pubDate>Thu, 11 Dec 2025 16:22:35 +0600</pubDate>
-      <guid>http://localhost:1313/posts/introduction/</guid>
-      <description>&lt;h3 id=&#34;welcome-to-inside-seek&#34;&gt;Welcome to Inside Seek&lt;/h3&gt;
-&lt;p&gt;This is the introduction post for the Inside Seek blog. Here, we will explore various topics related to web development,building blogs, and insights into the software and tech industry including affiliate marketing and adsense. Stay tuned for more informative articles and tips to help you navigate making money with blog journey!&lt;/p&gt;</description>
+      <title>Easiest Programming Language for Beginners in 2026: Honest Advice to Someone Starting to Learn Code</title>
+      <link>http://localhost:1313/2026/01/programming-for-beginners-2026/</link>
+      <pubDate>Thu, 08 Jan 2026 10:00:00 +0600</pubDate>
+      <guid>http://localhost:1313/2026/01/programming-for-beginners-2026/</guid>
+      <description>Discover the easiest programming language for beginners in 2026. How to choose your first language, and avoid common beginner mistakes. Real advice from builders, not tutorial makers.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Get in touch for questions, feedback, or collaboration.</description>
+    </item>
+    <item>
+      <title>Privacy policy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Tue, 23 Dec 2025 10:32:53 +0600</pubDate>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Last updated:&lt;/strong&gt; December 23, 2025&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Your privacy is important to us. This Privacy Policy explains how Inside Seek collects, uses, and protects your information when you visit our website.&lt;/p&gt;
+&lt;p&gt;By using this website, you agree to the collection and use of information in accordance with this policy.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;information-we-collect&#34;&gt;Information We Collect&lt;/h2&gt;
+&lt;h3 id=&#34;automatically-collected-information&#34;&gt;Automatically Collected Information&lt;/h3&gt;
+&lt;p&gt;When you visit our website, we automatically collect:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Browser type and version&lt;/li&gt;
+&lt;li&gt;Operating system&lt;/li&gt;
+&lt;li&gt;IP address (anonymized)&lt;/li&gt;
+&lt;li&gt;Pages you visit&lt;/li&gt;
+&lt;li&gt;Time and date of your visit&lt;/li&gt;
+&lt;li&gt;Referring website addresses&lt;/li&gt;
+&lt;li&gt;Device information&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;information-you-provide&#34;&gt;Information You Provide&lt;/h3&gt;
+&lt;p&gt;If you contact us or subscribe to our newsletter, we collect:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 23 Dec 2025 10:27:06 +0600</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;hello-im-william-j-stockson&#34;&gt;Hello, I&amp;rsquo;m William J. Stockson!&lt;/h2&gt;
+&lt;p&gt;Welcome to &lt;strong&gt;Inside Seek&lt;/strong&gt;, your go-to resource for software development, technology trends, and coding insights.&lt;/p&gt;
+&lt;h3 id=&#34;my-story&#34;&gt;My Story&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;m a passionate developer and tech enthusiast who loves sharing knowledge and helping others grow in their tech journey. I started this blog to document my learning experiences and provide valuable insights to fellow developers.&lt;/p&gt;
+&lt;h3 id=&#34;what-youll-find-here&#34;&gt;What You&amp;rsquo;ll Find Here&lt;/h3&gt;
+&lt;p&gt;On Inside Seek, I cover:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Software Development&lt;/strong&gt; - Best practices, tutorials, and tips&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technology Trends&lt;/strong&gt; - Latest developments in the tech world&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Coding Insights&lt;/strong&gt; - Deep dives into programming concepts&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Career Advice&lt;/strong&gt; - Guidance for developers at all levels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;my-approach&#34;&gt;My Approach&lt;/h3&gt;
+&lt;p&gt;I believe in:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

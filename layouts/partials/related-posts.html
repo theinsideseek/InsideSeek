@@ -1,0 +1,29 @@
+{{- $related := .Site.RegularPages.Related . | first 3 }}
+{{- if $related }}
+<div class="related-posts" style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+    <h3 style="margin-bottom: 1.5rem; font-size: 1.5rem;">Most Readed Articles</h3>
+    <div class="related-posts-grid" style="display: grid; gap: 1.5rem;">
+        {{- range $related }}
+        <div class="related-post-item"
+            style="padding: 1rem; border: 1px solid var(--border); border-radius: 8px; transition: box-shadow 0.2s;">
+            <h4 style="margin: 0 0 0.5rem 0; font-size: 1.1rem;">
+                <a href="{{ .RelPermalink }}" style="text-decoration: none; color: var(--primary);">
+                    {{ .Title }}
+                </a>
+            </h4>
+            {{- if .Description }}
+            <p style="margin: 0.5rem 0; color: var(--secondary); font-size: 0.9rem;">
+                {{ .Description | truncate 100 }}
+            </p>
+            {{- end }}
+            <div style="display: flex; gap: 1rem; margin-top: 0.5rem; font-size: 0.85rem; color: var(--secondary);">
+                <span> {{ .Date.Format "Jan 2, 2006" }}</span>
+                {{- if .Params.tags }}
+                <span> {{ delimit .Params.tags ", " }}</span>
+                {{- end }}
+            </div>
+        </div>
+        {{- end }}
+    </div>
+</div>
+{{- end }}

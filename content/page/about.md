@@ -7,7 +7,7 @@ ShowToc = false
 +++
 
 
-## Hi, I'm William Stockson!
+## Hello, I'm William J. Stockson!
 
 Welcome to **Inside Seek**, your go-to resource for software development, technology trends, and coding insights.
 
@@ -34,15 +34,14 @@ I believe in:
 ### Get in Touch
 
 Want to collaborate, have questions, or just say hi?
-- 📧 Email: [theinsideseek@gmail.com](mailto:theinsideseek@gmail.com)
-- 💼 GitHub: [github.com/insideseek](https://github.com/insideseek)
+- Email: [theinsideseek@gmail.com](mailto:theinsideseek@gmail.com)
+- GitHub: [github.com/insideseek](https://github.com/insideseek)
 
 ### Support This Blog
 
 If you find my content helpful:
 - Share posts with your network
 - Leave comments and feedback
-- Subscribe to the newsletter
 
 
-Thanks for visiting Inside Seek! Let's learn and grow together.
+Thanks for visiting Inside Seek!

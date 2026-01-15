@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Career Advice on Inside Seek</title>
+    <link>http://localhost:1313/categories/career-advice/</link>
+    <description>Recent content in Career Advice on Inside Seek</description>
+    <image>
+      <title>Inside Seek</title>
+      <url>http://localhost:1313/images/site-cover.png</url>
+      <link>http://localhost:1313/images/site-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Jan 2026 10:00:00 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/career-advice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Easiest Programming Language for Beginners in 2026: Honest Advice to Someone Starting to Learn Code</title>
+      <link>http://localhost:1313/2026/01/programming-for-beginners-2026/</link>
+      <pubDate>Thu, 08 Jan 2026 10:00:00 +0600</pubDate>
+      <guid>http://localhost:1313/2026/01/programming-for-beginners-2026/</guid>
+      <description>Discover the easiest programming language for beginners in 2026. How to choose your first language, and avoid common beginner mistakes. Real advice from builders, not tutorial makers.</description>
+    </item>
+  </channel>
+</rss>

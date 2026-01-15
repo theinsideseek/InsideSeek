@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://insideseek.netlify.app/sitemap.xml

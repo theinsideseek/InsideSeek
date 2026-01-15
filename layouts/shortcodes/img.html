@@ -1,0 +1,10 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ $caption := .Get "caption" }}
+
+<figure>
+    <img src="{{ $src }}" alt="{{ $alt }}" loading="lazy" decoding="async" {{ with .Get "width" }}width="{{ . }}" {{ end
+        }} {{ with .Get "height" }}height="{{ . }}" {{ end }}>
+    {{ with $caption }}
+    <figcaption>{{ . }}</figcaption>{{ end }}
+</figure>
